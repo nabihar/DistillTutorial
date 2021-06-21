@@ -1,12 +1,4 @@
-name: "."
-title: "Sci-Fi Movies"
-description: |
-  Sci-Fi Movies
-output_dir: "docs"
-navbar:
-  right:
-    - text: "Home"
-      href: index.html
-    - text: "About"
-      href: about.html
-output: distill::distill_article
+ - text: "Sources"
+ menu: 
+ href: source_A.Rmd
+ href: source_B.Rmd
