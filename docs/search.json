@@ -5,8 +5,8 @@
       "title": "About this site",
       "description": "Some additional details about the website",
       "author": [],
-      "contents": "\n\n\n\n",
-      "last_modified": "2021-06-21T16:49:57-05:00"
+      "contents": "\nAbout Me\nHi! My name is Nabiha Rabbani, and I’m currently a junior at Northside College Prep High School in Chicago, Illinois.\nScience Fiction and Techno Orientalism\nDo Americans turn to science fiction when threatened with East Asian success?\nGoals\n*Contribute to existing discussions about techno orientalism\n*Create visuals that are easy to understand\n+I don’t know how to tally up the variables that I need, and it’s making my graph confusing\n\"“This is data science”\"\n~Preceptor\n[(https://bootcamp.davidkane.info)]\n\n\n\n",
+      "last_modified": "2021-06-21T17:28:53-05:00"
     },
     {
       "path": "index.html",
@@ -14,7 +14,7 @@
       "description": "Welcome to the website. I hope you enjoy it!\n",
       "author": [],
       "contents": "\n\n\n\n\n\n\n",
-      "last_modified": "2021-06-21T16:50:03-05:00"
+      "last_modified": "2021-06-21T17:28:59-05:00"
     },
     {
       "path": "sources.html",
@@ -28,7 +28,7 @@
       ],
       "date": "`r Sys.Date()`",
       "contents": "\nDistill is a publication format for scientific and technical writing, native to the web.\nLearn more about using Distill for R Markdown at https://rstudio.github.io/distill.\n\n\n\n",
-      "last_modified": "2021-06-21T16:50:04-05:00"
+      "last_modified": "2021-06-21T17:28:59-05:00"
     }
   ],
   "collections": []

@@ -8,3 +8,16 @@ description: |
 knitr::opts_chunk$set(echo = FALSE)
 ```
 
+## About Me
+#### Hi! My name is **Nabiha Rabbani**, and I'm currently a junior at Northside College Prep High School in Chicago, Illinois.
+
+## *Science Fiction and Techno Orientalism*
+##### Do Americans turn to science fiction when threatened with East Asian success?
+
+## Goals
+##### *Contribute to existing discussions about techno orientalism
+##### *Create visuals that are easy to understand
+##### +I don't know how to tally up the variables that I need, and it's making my graph confusing
+##### ""This is data science""  
+##### ~Preceptor
+##### [(https://bootcamp.davidkane.info)]
